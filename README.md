@@ -1,7 +1,8 @@
 # distributed-network-federation
 
 
-<img src="https://raw.githubusercontent.com/eubr-atmosphere/distributed-network-federation/images/image.jpg" width="500">
+<img src="https://raw.githubusercontent.com/eubr-atmosphere/distributed-network-federation/master/images/image.jpg" width="500">
+
 
 ## 0 - Components:
 The distributed network architecture uses multiple components:
